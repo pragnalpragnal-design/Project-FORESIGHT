@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+data/
+
+# Trained models
+models/
+
+# Reports
+reports/
+
+# Images
+images/
+
+# ZIP files
+*.zip
+
+# Temporary files
+*.log
