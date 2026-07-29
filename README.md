@@ -239,9 +239,6 @@ Feature engineering creates lag variables and rolling averages for demand predic
 
 # 📸 Dashboard Preview
 
-Add screenshots here after deployment.
-
-Example
 
 ```
 <img width="1366" height="720" alt="Screenshot 2026-07-29 202358" src="https://github.com/user-attachments/assets/10aef5c3-8d30-4a4e-91b9-c77b7d8b1df0" />
