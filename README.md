@@ -1,14 +1,14 @@
 ## 📸 Dashboard Preview
 
 ### 🏠 Home
-![Home](home.png)
+![Home](images/home.png)
 
 ---
 
 ### 🤖 AI Forecast
-![Forecast](forecast.png)
+![Forecast](images/forecast.png)
 
 ---
 
 ### 📦 Inventory Management
-![Inventory](inventory.png)
+![Inventory](images/inventory.png)
