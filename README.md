@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Project FORESIGHT
+# 🚀 dasboard_ds
 
 ### AI-Powered Demand Forecasting & Inventory Optimization Dashboard
 
